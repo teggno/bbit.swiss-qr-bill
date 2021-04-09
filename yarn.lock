@@ -370,8 +370,8 @@
     "lodash" "^4.17.19"
     "to-fast-properties" "^2.0.0"
 
-"@bbitgmbh/bbit.banking-utils@teggno/bbit.banking-utils":
-  "resolved" "git+ssh://git@github.com/teggno/bbit.banking-utils.git#2b4978ccac89284e178190216e1c85cd36b3d69e"
+"@bbitgmbh/bbit.banking-utils@github:teggno/bbit.banking-utils":
+  "resolved" "git+ssh://git@github.com/teggno/bbit.banking-utils.git#741e7173839282d706bb7590adee51ea2cbeabc2"
   "version" "1.0.9"
   dependencies:
     "node-iso11649" "^2.1.2"

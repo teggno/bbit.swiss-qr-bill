@@ -24,7 +24,7 @@
     "readme.md"
   ],
   "dependencies": {
-    "@bbitgmbh/bbit.banking-utils": "^1.0.9",
+    "@bbitgmbh/bbit.banking-utils": "teggno/bbit.banking-utils",
     "assert": "^2.0.0",
     "browserify-zlib": "^0.2.0",
     "canvas": "^2.7.0",

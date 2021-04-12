@@ -1,6 +1,6 @@
 {
-  "name": "@bbitgmbh/bbit.swiss-qr-bill",
-  "version": "2.0.0",
+  "name": "@teggno/bbit.swiss-qr-bill",
+  "version": "3.0.0",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "types": "dist/types/index.d.ts",
@@ -24,7 +24,7 @@
     "readme.md"
   ],
   "dependencies": {
-    "@bbitgmbh/bbit.banking-utils": "github:teggno/bbit.banking-utils#741e717",
+    "@teggno/bbit.banking-utils": "^2.0.0",
     "assert": "^2.0.0",
     "browserify-zlib": "^0.2.0",
     "canvas": "^2.7.0",

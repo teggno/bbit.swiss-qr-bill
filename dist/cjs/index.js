@@ -2,7 +2,7 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
-var bbit_bankingUtils = require('@bbitgmbh/bbit.banking-utils');
+var bbit_bankingUtils = require('@teggno/bbit.banking-utils');
 var stream = require('stream');
 var qrcode = require('qrcode');
 var canvas = require('canvas');

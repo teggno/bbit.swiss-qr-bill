@@ -370,12 +370,6 @@
     "lodash" "^4.17.19"
     "to-fast-properties" "^2.0.0"
 
-"@bbitgmbh/bbit.banking-utils@github:teggno/bbit.banking-utils#741e717":
-  "resolved" "git+ssh://git@github.com/teggno/bbit.banking-utils.git#741e7173839282d706bb7590adee51ea2cbeabc2"
-  "version" "1.0.9"
-  dependencies:
-    "node-iso11649" "^2.1.2"
-
 "@bcoe/v8-coverage@^0.2.3":
   "integrity" "sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw=="
   "resolved" "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz"
@@ -630,6 +624,13 @@
   "version" "6.0.1"
   dependencies:
     "@sinonjs/commons" "^1.7.0"
+
+"@teggno/bbit.banking-utils@^2.0.0":
+  "integrity" "sha512-z5YbXjB+5QBq7aKrM39YWVK4DdWsK0D0D/MqP8W3sK2/tkd9P/i95PE6UVInB7JmBMv/Hkrj1lSErCWFgOPDdQ=="
+  "resolved" "https://registry.npmjs.org/@teggno/bbit.banking-utils/-/bbit.banking-utils-2.0.0.tgz"
+  "version" "2.0.0"
+  dependencies:
+    "node-iso11649" "^2.1.2"
 
 "@ts-nameof/common@^4.2.0":
   "integrity" "sha512-bWwYOFTTd6Nq7RUqJalIii1su3OyR+N1W0smp5PzHGUVycHuJ7MRiyCQrWgMt1lbbp3GY6cvCttm7Zo5E7A1xQ=="

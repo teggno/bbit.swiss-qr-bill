@@ -1,4 +1,4 @@
-import { IBbitQRBill, BbitQRBillCurrency, BbitQRBillAddressType, BbitQRBillLanguage } from '@bbitgmbh/bbit.banking-utils';
+import { IBbitQRBill, BbitQRBillCurrency, BbitQRBillAddressType, BbitQRBillLanguage } from '@teggno/bbit.banking-utils';
 
 export const defaultData: IBbitQRBill = {
   account: 'CH2830000011623852950',

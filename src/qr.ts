@@ -9,7 +9,7 @@ import {
   BbitQRBillVersion,
   BbitQRBillAddressType,
   IBbitQRBillAddress,
-} from '@bbitgmbh/bbit.banking-utils';
+} from '@teggno/bbit.banking-utils';
 
 export class BbitQRCodeGenerator {
   private _iban = new BbitIBAN();

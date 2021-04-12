@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @typescript-eslint/explicit-module-boundary-types */
-import { IBbitQRBillTranslations, BbitQRBillLanguage } from '@bbitgmbh/bbit.banking-utils';
+import { IBbitQRBillTranslations, BbitQRBillLanguage } from '@teggno/bbit.banking-utils';
 import * as stream from 'stream';
 
 export const isNodeJs = typeof document === 'undefined';

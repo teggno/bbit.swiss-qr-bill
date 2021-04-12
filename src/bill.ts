@@ -12,7 +12,7 @@ import {
   IBbitQRBill,
   BbitQRBillAddressType,
   BbitQRBillFormat,
-} from '@bbitgmbh/bbit.banking-utils';
+} from '@teggno/bbit.banking-utils';
 
 interface IPDFOptions {
   titleFontSize: number;

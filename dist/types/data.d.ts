@@ -1,2 +1,2 @@
-import { IBbitQRBill } from '@bbitgmbh/bbit.banking-utils';
+import { IBbitQRBill } from '@teggno/bbit.banking-utils';
 export declare const defaultData: IBbitQRBill;

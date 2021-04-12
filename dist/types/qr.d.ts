@@ -1,5 +1,5 @@
 /// <reference types="node" />
-import { IBbitQRBill } from '@bbitgmbh/bbit.banking-utils';
+import { IBbitQRBill } from '@teggno/bbit.banking-utils';
 export declare class BbitQRCodeGenerator {
     private _iban;
     private _reference;
